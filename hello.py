@@ -7,4 +7,4 @@ print("Python", " sys.version")
 print(saya kuliah di poltera)
 print(prodi otomasi)
 
-print("kelompok 2")
+print("Saya kuliah di Politeknik Negeri Madura")
